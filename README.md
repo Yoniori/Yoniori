@@ -51,7 +51,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yonatanori-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yonatan-ori/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yonatanori-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yonatan-ori695040248)
 [![GitHub](https://img.shields.io/badge/GitHub-Yoniori-181717?style=flat&logo=github)](https://github.com/Yoniori)
 
 ---
